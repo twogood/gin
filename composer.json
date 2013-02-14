@@ -1,0 +1,15 @@
+{
+    "name": "david/gin",
+    "require": {
+        "peej/tonic": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "David Eriksson",
+            "email": "david+github@2good.nu"
+        }
+    ],
+    "autoload": {
+        "psr-0": {"Gin": "src/"}
+    }
+}
